@@ -47,17 +47,19 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/O81WQQXPLQHR">
-  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/O81WQQXPLQHR" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1Vxudn6nNi6WjrM7-OmJdPeMU_9Biaata/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-CAREEREX%20CERTIFICATE-FF8C00?&style=for-the-badge&logo=briefcase&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1LW1Rv9eZo-ilWnIGS3k6VVna_fFs7k_X/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-TCM%20PRACTICAL%20HELPDESK-6A0DAD?&style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</p>
 
 ## Projects
 - Detection Lab
