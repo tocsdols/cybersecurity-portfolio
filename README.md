@@ -24,29 +24,37 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | Security Incident Response Project  | SOC Automation Lab|
 | Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](LINK_HERE) |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools & Technologies
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]\
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### 🖧 Network Analysis
+- **Wireshark** – Captured and analyzed network traffic to identify anomalies and troubleshoot connectivity issues  
+- **Suricata** – Monitored network activity and reviewed alerts for potential threats  
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### 🔐 Security & SIEM
+- **Splunk** – Performed basic log analysis to detect suspicious activity and understand system events  
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### 🧪 Offensive Security (Basic Exposure)
+- **Metasploit** – Explored vulnerability scanning and basic exploitation in controlled lab environments  
+- **John the Ripper** – Practiced password cracking techniques to understand password security weaknesses  
 
+### 💻 Operating Systems
+- **Linux** – Managed users, permissions, and performed system navigation via command line  
+- **Windows** – Performed system configuration and troubleshooting tasks  
+
+### 🧰 IT Support Tools
+- **Active Directory** – Managed users and basic administrative tasks in a lab environment  
+- **Command Line (Bash/CLI)** – Executed system and network troubleshooting commands (e.g., `ipconfig`, `ping`)  
+
+### 🧑‍💻 Scripting
+- **Python** – Wrote basic scripts for automation and problem-solving tasks  
+
+### ☁️ Cloud (Exposure)
+- **Microsoft Azure** – Navigated and explored basic cloud services in a lab setup  
+
+### 🔍 Forensics & Analysis
+- **Hex Fiend** – Analyzed file structures at a low level during basic forensic exercises  
+- **Ocenaudio** – Reviewed and analyzed audio files during investigation exercises  
 ## Certifications
 
 
