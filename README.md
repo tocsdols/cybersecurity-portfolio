@@ -22,6 +22,7 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | Linux + Bash Project                | SOC Automation Lab|
 | SIEM Lab                            | SOC Automation Lab|
 | Security Incident Response Project  | SOC Automation Lab|
+| Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](LINK_HERE) |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
