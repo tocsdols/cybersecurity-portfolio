@@ -25,7 +25,6 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](LINK_HERE) |
 
 ## Tools & Technologies
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]\
 
 ### 🖧 Network Analysis
 - **Wireshark** – Captured and analyzed network traffic to identify anomalies and troubleshoot connectivity issues  
