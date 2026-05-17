@@ -23,7 +23,6 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | SIEM Lab                            | SOC Automation Lab|
 | Security Incident Response Project  | SOC Automation Lab|
 | Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| Network Security (IDS - Scapy)      | <a href="[https://google.com](https://github.com/tocsdols/Scapy-IDS/tree/main)">IDS-Scapy</a> |
 
 
 
@@ -73,5 +72,5 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 </p>
 
 ## Projects
-- <a href="[https://google.com](https://github.com/tocsdols/Scapy-IDS/tree/main)">IDS-Scapy</a>
+[Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main)
 - SOC Automation Project
