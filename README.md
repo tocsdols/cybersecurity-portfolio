@@ -14,12 +14,6 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Lab                | <a href="https://google.com">Detection Lab</a>|
-| Ticketing System Simulation         | <a href="https://google.com">Detection Lab</a>|
-| Network Troubleshooting Lab         | SOC Automation Lab|
-| Linux + Bash Project                | SOC Automation Lab|
-| SIEM Lab                            | SOC Automation Lab|
-| Security Incident Response Project  | SOC Automation Lab|
 | Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
 
 
@@ -71,4 +65,3 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 
 ## Projects
 [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main)
-- SOC Automation Project
