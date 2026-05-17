@@ -3,9 +3,7 @@
 
 
 
-I am an aspiring IT Support and Cybersecurity professional with hands-on experience from the CareerEx Certificate, Google Cybersecurity Certificate and TCM Practical Help Desk labs.
-I specialize in troubleshooting, system support, and basic security operations.
-I am currently building real-world projects to strengthen my skills and transition into an entry-level IT role.
+Entry-level IT Support and Cybersecurity practitioner with hands-on experience in troubleshooting, system support, networking fundamentals, and basic security operations through labs, certifications, and real-world projects.
 
 
 ## Career Objective
