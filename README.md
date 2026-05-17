@@ -70,5 +70,5 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 </p>
 
 ## Projects
-- Detection Lab
+- Intrusion Detection System Using Scapy for monitoring suspicious network activity
 - SOC Automation Project
