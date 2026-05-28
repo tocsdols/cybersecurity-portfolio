@@ -10,7 +10,6 @@ Entry-level IT Support and Cybersecurity practitioner with hands-on experience i
 To secure an entry-level IT Support or Cybersecurity role where I can apply my troubleshooting skills, support users effectively, and continue building hands-on experience in real-world environments.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
