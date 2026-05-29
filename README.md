@@ -13,6 +13,11 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Azure-AD-Setup                      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| AD-User-Administration              | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| Windows-Local-User-Administration   | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| Network-Troubleshooting             | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| Linux-Bash                          | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
 | Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
 
 
