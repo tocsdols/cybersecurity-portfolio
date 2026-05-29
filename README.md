@@ -13,43 +13,41 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure-AD-Setup                      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| AD-User-Administration              | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| Windows-Local-User-Administration   | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| Network-Troubleshooting             | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| Linux-Bash                          | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
-| Network Security (IDS - Scapy)      | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| Azure-AD-Setup & User-Administration | [Azure Active Directory Home Lab](https://github.com/tocsdols/Azure-AD-Setup/tree/main)|
+| Network Security (IDS - Scapy)       | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+
+
 
 
 
 ## Tools & Technologies
 
-### 🖧 Network Analysis
+### Network Analysis
 - **Wireshark** – Captured and analyzed network traffic to identify anomalies and troubleshoot connectivity issues  
 - **Suricata** – Monitored network activity and reviewed alerts for potential threats  
 
-### 🔐 Security & SIEM
+### Security & SIEM
 - **Splunk** – Performed basic log analysis to detect suspicious activity and understand system events  
 
-### 🧪 Offensive Security (Basic Exposure)
+### Offensive Security (Basic Exposure)
 - **Metasploit** – Explored vulnerability scanning and basic exploitation in controlled lab environments  
 - **John the Ripper** – Practiced password cracking techniques to understand password security weaknesses  
 
-### 💻 Operating Systems
+### Operating Systems
 - **Linux** – Managed users, permissions, and performed system navigation via command line  
 - **Windows** – Performed system configuration and troubleshooting tasks  
 
-### 🧰 IT Support Tools
+### IT Support Tools
 - **Active Directory** – Managed users and basic administrative tasks in a lab environment  
 - **Command Line (Bash/CLI)** – Executed system and network troubleshooting commands (e.g., `ipconfig`, `ping`)  
 
-### 🧑‍💻 Scripting
+### Scripting
 - **Python** – Wrote basic scripts for automation and problem-solving tasks  
 
-### ☁️ Cloud (Exposure)
+### Cloud (Exposure)
 - **Microsoft Azure** – Navigated and explored basic cloud services in a lab setup  
 
-### 🔍 Forensics & Analysis
+### Forensics & Analysis
 - **Hex Fiend** – Analyzed file structures at a low level during basic forensic exercises  
 - **Ocenaudio** – Reviewed and analyzed audio files during investigation exercises  
 ## Certifications
@@ -69,3 +67,5 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 
 ## Projects
 [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main)
+
+[Azure Active Directory Home Lab](https://github.com/tocsdols/Azure-AD-Setup/tree/main)
