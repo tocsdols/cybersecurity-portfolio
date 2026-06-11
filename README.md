@@ -14,7 +14,7 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Azure-AD-Setup & User-Administration   | [Azure Active Directory Home Lab](https://github.com/tocsdols/Azure-AD-Setup/tree/main)|
-| PowerShell-AD-User Creation Automation | [Azure Active Directory Home Lab](https://github.com/tocsdols/Azure-AD-Setup/tree/main)|
+| PowerShell Automation | [PowerShell-AD-User Creation Automation](https://github.com/tocsdols/PowerShell-Active-Directory-User-Automation)|
 | Network Security (IDS - Scapy)         | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
 
 
@@ -70,3 +70,5 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main)
 
 [Azure Active Directory Home Lab](https://github.com/tocsdols/Azure-AD-Setup/tree/main)
+
+[PowerShell-AD-User Creation Automation](https://github.com/tocsdols/PowerShell-Active-Directory-User-Automation)
