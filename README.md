@@ -17,6 +17,7 @@ To secure an entry-level IT Support or Cybersecurity role where I can apply my t
 | PowerShell Automation | [PowerShell-AD-User Creation Automation](https://github.com/tocsdols/PowerShell-Active-Directory-User-Automation)|
 | Ticketing Lab | [Azure-Peppermint-Ticketing-Lab](https://github.com/tocsdols/azure-peppermint-ticketing-lab)|
 | Network Security (IDS - Scapy)         | [Intrusion Detection System (Scapy)](https://github.com/tocsdols/Scapy-IDS/tree/main) |
+| Networking         | [Building a small Enterprise Netowrk](https://github.com/tocsdols/Scapy-IDS/tree/main) |
 
 
 
